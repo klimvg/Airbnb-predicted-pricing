@@ -1,4 +1,4 @@
-# Life Expectancy and GDP project
+# Predicting Europe Airbnb prices
 
 ## Table of Contents
 
@@ -9,14 +9,14 @@
 
 ## Overview
 
-<img width="1017" alt="Screenshot 2023-07-18 at 18 33 54" src="https://github.com/klimvg/Life-Expectancy-and-GDP-project/assets/85249877/5ce1d8b3-7277-4ef6-ab0f-f9c49d835e14">
+<img width="889" alt="Screenshot 2023-07-18 at 18 53 42" src="https://github.com/klimvg/Airbnb-predicted-pricing/assets/85249877/c56f369d-860b-4f73-ac1d-381d11026f79">
 
+This project is focused on creating a machine-learning model to predict Airbnb prices across different countries in Europe. 
+The dataset includes 20 CSV files containing information about each Airbnb listing.
+Various machine learning model-building techniques were used such as features correlation matrix and random forest regressor.
+The model in the research appears to be successful with some room to grow which is described in the notebook.
 
-This project is focused on performing a data visualization using a dataset containing life expectancy information based on the year, country, and GDP of the country for a given year.
-Various data visualization techniques were used in this project such as boxplots and scatterplots.
-The data is limited but some trends are showing even with the given data.
-
-The project is located in "index.ipynb" file of this repository.
+The project is located in this repository's "index.ipynb" file.
 
 ### Built With
 
@@ -25,10 +25,11 @@ The project is located in "index.ipynb" file of this repository.
 * Pandas
 * Matplotlib
 * Seaborn
+* Sklearn
 
 ## Features
 
-This project solves the problem of detecting trends and patterns and simultaneously making the research understandable.
+This project solves the problem of predicting Airbnb prices across Europe which provides valuable insights for Airbnb hosts and travelers in the European market, with potential for further refinement and optimization.
 
 ## Contact
 
