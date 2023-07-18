@@ -9,7 +9,7 @@
 
 ## Overview
 
-<img width="889" alt="Screenshot 2023-07-18 at 18 53 42" src="https://github.com/klimvg/Airbnb-predicted-pricing/assets/85249877/c56f369d-860b-4f73-ac1d-381d11026f79">
+<img width="890" alt="Screenshot 2023-07-18 at 19 07 38" src="https://github.com/klimvg/Airbnb-predicted-pricing/assets/85249877/0d454ea6-1d46-4925-b1d5-babc3ef8743c">
 
 This project is focused on creating a machine-learning model to predict Airbnb prices across different countries in Europe. 
 The dataset includes 20 CSV files containing information about each Airbnb listing.
