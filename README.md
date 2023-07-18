@@ -34,3 +34,4 @@ This project solves the problem of predicting Airbnb prices across Europe which 
 ## Contact
 
 * LinkedIn: https://www.linkedin.com/in/klim-gruzdev-b38197187/
+
